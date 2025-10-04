@@ -493,7 +493,7 @@ class Calculator:
             "Sodium (%)": self.calc_F18(),
             "Potassium (%)": self.calc_F19(),
             "Cost per kg": self.calc_F20(),
-            "Cost per Bag": self.calc_F21(),
+            # "Cost per Bag": self.calc_F21(),
             "Margin": self.calc_F22(),
             "Chloride (mg/kg)": self.calc_F24(),
             "Sodium (mg/kg)": self.calc_F25(),
